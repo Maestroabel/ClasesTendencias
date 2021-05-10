@@ -1,0 +1,1 @@
+#Presentación---Hola, soy Angel Daniel. Esto es un archivo MarkDown, creado para la clase de **Tendencias en Desarrollo de Aplicaciones**.![Foto de mi](Yo.png)
