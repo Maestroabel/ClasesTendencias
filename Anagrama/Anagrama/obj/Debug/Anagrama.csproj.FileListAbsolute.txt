@@ -1,0 +1,7 @@
+C:\Users\Angel Daniel\Documents\INTEC\CódigosC#\Anagrama\Anagrama\bin\Debug\Anagrama.exe.config
+C:\Users\Angel Daniel\Documents\INTEC\CódigosC#\Anagrama\Anagrama\bin\Debug\Anagrama.exe
+C:\Users\Angel Daniel\Documents\INTEC\CódigosC#\Anagrama\Anagrama\bin\Debug\Anagrama.pdb
+C:\Users\Angel Daniel\Documents\INTEC\CódigosC#\Anagrama\Anagrama\obj\Debug\Anagrama.csprojAssemblyReference.cache
+C:\Users\Angel Daniel\Documents\INTEC\CódigosC#\Anagrama\Anagrama\obj\Debug\Anagrama.csproj.CoreCompileInputs.cache
+C:\Users\Angel Daniel\Documents\INTEC\CódigosC#\Anagrama\Anagrama\obj\Debug\Anagrama.exe
+C:\Users\Angel Daniel\Documents\INTEC\CódigosC#\Anagrama\Anagrama\obj\Debug\Anagrama.pdb
